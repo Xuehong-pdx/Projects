@@ -1,5 +1,5 @@
 # Python-Projects
-These self_directed projects used a variety of python libraries, including Pandas, Numpy, SMatplotlib, Sea Born, cikit-learn, and many others. 
+These self_directed projects is a collection of projects to analyze different types of data to gain insights on differnt types of business related issues using data from public domains.
 
 In 'Price prediction using multiple ML algorythms', I cleaned and transformed a very dirty data set and then used the cleaned data to predict sales price using linear regression, 
 knn, random forest and decision tree algorythms to learn about the relationship between the number of features used, and prediction of algorythm of the result of the prediction.
