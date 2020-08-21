@@ -2,11 +2,9 @@ These self_directed projects is a collection of sample projects using Python or 
 
 # Python-Projects
 
-In <b>'Price prediction using multiple ML algorythms'</b>, I used Pandas in the Jupyter notebook to cleaned and transformed a very dirty data set and then used the cleaned data to predict sales price using sklearn machine learning algorythms perform linear regression, knn, random forest and decision trees.  
+•	In the <b>“Price prediction using multiple ML algorithms”</b>, I used a housing sale dataset to compare the performance of several ML algorithms.  I first prepared the data set by removing null values, redundant features based on correlation and similarity analysis, transformed the categorical variables.  Next, I compared the performance of several machine learning models, including linear regression, knn, random forest and decision trees using Scikit-learn.  For each model, I performed feature selection based on metrics determined by cross-validations.  I also optimized hyperparameters for knn, random forest and decision tree models using grid-search algorithm.  Finally, I used a test data set to compare the performance of the models to select the best model.  
+•	In the <b>“Time series analysis”</b>, I first performed exploratory data analysis using data visualization on a data set that contains 4 months of web visit counts aggregated every 15 min.  I used Statsmodel and Fourier Transform (Scipy) to decompose and learn about the cyclic nature of the data, then employed Facebook’s Prophet to perform forecast for a week ahead.  Both statsmodel and fbprophet were able to estimate the daily and weekly cyclic nature of the data.  Both also detected a drop in acitivity in the month of July, consistent vacation times.
 
-A rigrious analysis was performed for each model to evaluate bias, variance in the data.  Feature selections and hyperparameter tuning was also perormed to improve model performace.  To select the best model for the prediction task, the RMSE error was compared among the models.  
-
-In the end, the linear model has the least error.  Moreover, using normalized data reduced the number of features needed to acieve the same level of acuracy for the linear model.  
 
 # SQL-Projects
 
