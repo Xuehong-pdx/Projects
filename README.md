@@ -11,13 +11,13 @@ These is a collection of sample projects using Python or SQL to analyze differen
      
 -	In the <b>“Time series analysis”</b>, I first performed exploratory data analysis using data visualization on a data set that contains 4 months of web visit counts aggregated every 15 min.  
 
-  I used both Statsmodel and Fourier Transform (Scipy) to decompose and learn about the cyclic nature of the data.
+    I used both Statsmodel and Fourier Transform (Scipy) to decompose and learn about the cyclic nature of the data.
   
-  Facebook’s Prophet was used to forecast activities a week ahead.  
+    Facebook’s Prophet was used to forecast activities a week ahead.  
   
-  Both statsmodel and fbprophet were able to estimate the daily and weekly cyclic nature of the data.  Both also detected a drop in acitivity in the month of July, consistent vacation times.
+    Both statsmodel and fbprophet were able to estimate the daily and weekly cyclic nature of the data.  Both also detected a drop in acitivity in the month of July, consistent           vacation times.
 
 
 # SQL-Projects
 
-In <b>'Sales performance analysis-SQL-Python'</b>, I downloaded a database containing sales data from 'AdventureWorks' using Microsoft server.  Final analysis was performed using Pandas to answer various business questions.  Sample reports based on these analysis are included.
+    In <b>'Sales performance analysis-SQL-Python'</b>, I downloaded a database containing sales data from 'AdventureWorks' using Microsoft server.  Final analysis was performed    using Pandas to answer various business questions.  Sample reports based on these analysis are included.
