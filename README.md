@@ -20,4 +20,5 @@ These is a collection of sample projects using Python or SQL to analyze differen
 
 # SQL-Projects
 
-    In <b>'Sales performance analysis-SQL-Python'</b>, I downloaded a database containing sales data from 'AdventureWorks' using Microsoft server.  Final analysis was performed    using Pandas to answer various business questions.  Sample reports based on these analysis are included.
+   In <b>'Sales performance analysis-SQL-Python'</b>, I downloaded a database containing sales data from 'AdventureWorks' using Microsoft server.  
+   Final analysis was performed    using Pandas to answer various business questions.  Sample reports based on these analysis are included.
