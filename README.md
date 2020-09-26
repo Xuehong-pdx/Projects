@@ -5,9 +5,11 @@ These is a collection of sample projects using Python or SQL to analyze differen
 -	In the <b>“Price prediction using multiple ML algorithms”</b>, I used a housing sale dataset to compare the performance of several ML algorithms.  
     I first prepared the data set by removing null values, redundant features based on correlation and similarity analysis, transformed the categorical variables.  
 
-    Next, I compared the performance of several machine learning models, including linear regression, knn, random forest and decision trees using Scikit-learn.  
+    Next, I compared the performance of several machine learning algorythms, including linear regression, knn, random forest and decision trees using Scikit-learn.  
     
-     For each model, I performed feature selection based on metrics determined by cross-validations.  I also optimized hyperparameters for knn, random forest and decision tree models using grid-search algorithm.  Finally, I used a test data set to compare the performance of the models to select the best model.  
+     For each model, I performed feature selection based on metrics determined by cross-validations.  I also optimized hyperparameters for knn, random forest and decision tree models using grid-search algorithm.  
+     
+     Bsed on the performance of the test data set, linear regression model made the most accurate prediction for this problem.  
      
 -	In the <b>“Time series analysis”</b>, I first performed exploratory data analysis using data visualization on a data set that contains 4 months of web visit counts aggregated every 15 min.  
 
@@ -21,4 +23,4 @@ These is a collection of sample projects using Python or SQL to analyze differen
 # SQL-Projects
 
 -  In <b>'Sales performance analysis-SQL-Python'</b>, I downloaded a database containing sales data from 'AdventureWorks' using Microsoft server.  
--  Final analysis was performed    using Pandas to answer various business questions.  Sample reports based on these analysis are included.
+-  Final analysis was performed using Pandas to answer various business questions.  Sample reports based on these analysis are included.
